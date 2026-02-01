@@ -9,7 +9,7 @@
         "dep": "Ajax",
         "tahmin": {
             "secim": "MS 2",
-            "guven": "%60",
+            "guven": "%601",
             "oran": "---",
             "istatistikler": {
                 "gol_ort": "3.6",
@@ -1386,3 +1386,4 @@
         }
     }
 ]
+
