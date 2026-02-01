@@ -1,0 +1,76 @@
+[
+  {
+    "id": "test_mac_1",
+    "tarih": "2026-02-02",
+    "gun": "Pazartesi",
+    "saat": "20:00",
+    "lig": "Süper Lig",
+    "ev": "Galatasaray",
+    "dep": "Beşiktaş",
+    "tahmin": {
+      "secim": "KG VAR",
+      "oran": "1.65",
+      "guven": "%85",
+      "istatistikler": {
+        "gol_ort": "3.1",
+        "korner_ort": "9.5",
+        "ust_bitme": "%70",
+        "kg_bitme": "%60"
+      },
+      "karne": {
+        "ev_form": "WWDLW",
+        "dep_form": "WDWLL",
+        "ev_won": 10,
+        "dep_won": 8
+      },
+      "kategori1": [
+        {"baslik": "Kilit Oyuncu", "detay": "Icardi (%40)"},
+        {"baslik": "Son Durum", "detay": "🔥 Derbi Ateşi"}
+      ],
+      "kategori2": [
+        {"baslik": "Hava", "detay": "Açık, 15°C"},
+        {"baslik": "Korner", "detay": "10.5 Bekl."}
+      ],
+      "kategori3": [
+         {"baslik": "Yapay Zeka Analizi", "detay": "İki takımın hücum hatları çok formda. Taraf bahsi riskli, karşılıklı goller bekleniyor."}
+      ]
+    }
+  },
+  {
+    "id": "test_mac_2",
+    "tarih": "2026-02-02",
+    "gun": "Pazartesi",
+    "saat": "22:00",
+    "lig": "Premier League",
+    "ev": "Man City",
+    "dep": "Arsenal",
+    "tahmin": {
+      "secim": "MS 1",
+      "oran": "1.80",
+      "guven": "%75",
+      "istatistikler": {
+        "gol_ort": "2.8",
+        "korner_ort": "11.2",
+        "ust_bitme": "%55",
+        "kg_bitme": "%45"
+      },
+      "karne": {
+        "ev_form": "WWWWW",
+        "dep_form": "WDDWL",
+        "ev_won": 15,
+        "dep_won": 12
+      },
+      "kategori1": [
+        {"baslik": "Kilit Oyuncu", "detay": "Haaland (%55)"},
+        {"baslik": "Eksikler", "detay": "Tam kadro"}
+      ],
+      "kategori2": [
+        {"baslik": "Hava", "detay": "Yağmurlu, 12°C"},
+        {"baslik": "Korner", "detay": "Bol Korner"}
+      ],
+      "kategori3": [
+         {"baslik": "Yapay Zeka Analizi", "detay": "City evinde hata yapmaz. Haaland faktörüyle galibiyete yakınlar."}
+      ]
+    }
+  }
+]
