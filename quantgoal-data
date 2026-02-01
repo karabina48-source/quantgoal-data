@@ -1,0 +1,821 @@
+[
+    {
+        "id": "750092",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "14:00",
+        "lig": "Süper Lig",
+        "ev": "Genclerbirli",
+        "dep": "Gaziantep",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%60",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "3.3"
+            },
+            "karne": {
+                "ev_form": "WLDWD",
+                "dep_form": "LDDLL"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %60 | 2: %39"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Süper Lig"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "750097",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "17:00",
+        "lig": "Süper Lig",
+        "ev": "Galatasaray",
+        "dep": "Kayserispor",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%63",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "2.3"
+            },
+            "karne": {
+                "ev_form": "WLWDD",
+                "dep_form": "LLLDD"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %63 | 2: %36"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Süper Lig"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "740826",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "14:00",
+        "lig": "Premier League",
+        "ev": "Aston Villa",
+        "dep": "Brentford",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%62",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "2.2"
+            },
+            "karne": {
+                "ev_form": "LWWWL",
+                "dep_form": "WLLWW"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %62 | 2: %37"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Premier League"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "740833",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "14:00",
+        "lig": "Premier League",
+        "ev": "Man United",
+        "dep": "Fulham",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%59",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "2.9"
+            },
+            "karne": {
+                "ev_form": "WWWLD",
+                "dep_form": "LWLWW"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %59 | 2: %40"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Premier League"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "740832",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "14:00",
+        "lig": "Premier League",
+        "ev": "Nottm Forest",
+        "dep": "C Palace",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%57",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "2.4"
+            },
+            "karne": {
+                "ev_form": "DWWLD",
+                "dep_form": "DLLLD"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %57 | 2: %42"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Premier League"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "740828",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "16:30",
+        "lig": "Premier League",
+        "ev": "Spurs",
+        "dep": "Man City",
+        "tahmin": {
+            "secim": "MS 2",
+            "guven": "%57",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "3.3"
+            },
+            "karne": {
+                "ev_form": "DWDWL",
+                "dep_form": "DWWLL"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %42 | 2: %57"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Premier League"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 2"
+                }
+            ]
+        }
+    },
+    {
+        "id": "748356",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "13:00",
+        "lig": "La Liga",
+        "ev": "Real Madrid",
+        "dep": "Rayo",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%67",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "3.4"
+            },
+            "karne": {
+                "ev_form": "WLWWW",
+                "dep_form": "LLLLW"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %67 | 2: %32"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "La Liga"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "748360",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "15:15",
+        "lig": "La Liga",
+        "ev": "Betis",
+        "dep": "Valencia",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%57",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "2.9"
+            },
+            "karne": {
+                "ev_form": "WWLLW",
+                "dep_form": "LWWWD"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %57 | 2: %42"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "La Liga"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "748361",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "17:30",
+        "lig": "La Liga",
+        "ev": "Getafe",
+        "dep": "Celta Vigo",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%57",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "3.2"
+            },
+            "karne": {
+                "ev_form": "DDLLD",
+                "dep_form": "DDLWW"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %57 | 2: %42"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "La Liga"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "748358",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "20:00",
+        "lig": "La Liga",
+        "ev": "Athletic",
+        "dep": "Real Sociedad",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%56",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "3.0"
+            },
+            "karne": {
+                "ev_form": "DLLWL",
+                "dep_form": "DWWWW"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %56 | 2: %43"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "La Liga"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "746892",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "14:30",
+        "lig": "Bundesliga",
+        "ev": "Stuttgart",
+        "dep": "Freiburg",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%60",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "3.2"
+            },
+            "karne": {
+                "ev_form": "WWWLD",
+                "dep_form": "LLWWD"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %60 | 2: %39"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Bundesliga"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "746889",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "16:30",
+        "lig": "Bundesliga",
+        "ev": "Dortmund",
+        "dep": "Heidenheim",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%63",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "2.3"
+            },
+            "karne": {
+                "ev_form": "WLWLW",
+                "dep_form": "LLDLD"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %63 | 2: %36"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Bundesliga"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "737004",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "11:30",
+        "lig": "Serie A",
+        "ev": "Torino",
+        "dep": "Lecce",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%59",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "2.3"
+            },
+            "karne": {
+                "ev_form": "WLLWL",
+                "dep_form": "LDLLL"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %59 | 2: %40"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Serie A"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "737010",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "14:00",
+        "lig": "Serie A",
+        "ev": "Como",
+        "dep": "Atalanta",
+        "tahmin": {
+            "secim": "KG VAR",
+            "guven": "%55",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "2.3"
+            },
+            "karne": {
+                "ev_form": "DWWWL",
+                "dep_form": "DLWLD"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %55 | 2: %44"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Serie A"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: KG VAR"
+                }
+            ]
+        }
+    },
+    {
+        "id": "737009",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "17:00",
+        "lig": "Serie A",
+        "ev": "Cremonese",
+        "dep": "Inter Milan",
+        "tahmin": {
+            "secim": "MS 2",
+            "guven": "%52",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "2.8"
+            },
+            "karne": {
+                "ev_form": "LLDLD",
+                "dep_form": "WWWLW"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %47 | 2: %52"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Serie A"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 2"
+                }
+            ]
+        }
+    },
+    {
+        "id": "737006",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "19:45",
+        "lig": "Serie A",
+        "ev": "Parma",
+        "dep": "Juventus",
+        "tahmin": {
+            "secim": "MS 2",
+            "guven": "%55",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "3.2"
+            },
+            "karne": {
+                "ev_form": "LLDDW",
+                "dep_form": "WDWWL"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %44 | 2: %55"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Serie A"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 2"
+                }
+            ]
+        }
+    },
+    {
+        "id": "746583",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "14:00",
+        "lig": "Ligue 1",
+        "ev": "Lyon",
+        "dep": "Lille",
+        "tahmin": {
+            "secim": "KG VAR",
+            "guven": "%55",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "3.4"
+            },
+            "karne": {
+                "ev_form": "WWWWW",
+                "dep_form": "LWLLL"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %54 | 2: %45"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Ligue 1"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: KG VAR"
+                }
+            ]
+        }
+    },
+    {
+        "id": "746590",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "16:15",
+        "lig": "Ligue 1",
+        "ev": "Angers",
+        "dep": "Metz",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%56",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "3.1"
+            },
+            "karne": {
+                "ev_form": "WDLLL",
+                "dep_form": "LLLLD"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %56 | 2: %43"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Ligue 1"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "746585",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "16:15",
+        "lig": "Ligue 1",
+        "ev": "Nice",
+        "dep": "Brest",
+        "tahmin": {
+            "secim": "KG VAR",
+            "guven": "%55",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "2.6"
+            },
+            "karne": {
+                "ev_form": "DLWWL",
+                "dep_form": "DLLWL"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %54 | 2: %45"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Ligue 1"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: KG VAR"
+                }
+            ]
+        }
+    },
+    {
+        "id": "746588",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "16:15",
+        "lig": "Ligue 1",
+        "ev": "Toulouse",
+        "dep": "Auxerre",
+        "tahmin": {
+            "secim": "MS 1",
+            "guven": "%58",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "3.1"
+            },
+            "karne": {
+                "ev_form": "DWWWL",
+                "dep_form": "DLLLL"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %58 | 2: %41"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Ligue 1"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "746591",
+        "tarih": "2026-02-01",
+        "gun": "Pazar",
+        "saat": "19:45",
+        "lig": "Ligue 1",
+        "ev": "Strasbourg",
+        "dep": "PSG",
+        "tahmin": {
+            "secim": "MS 2",
+            "guven": "%53",
+            "oran": "---",
+            "istatistikler": {
+                "gol_ort": "2.9"
+            },
+            "karne": {
+                "ev_form": "LWWWD",
+                "dep_form": "WDWLW"
+            },
+            "kategori1": [
+                {
+                    "baslik": "Simülasyon",
+                    "detay": "1: %46 | 2: %53"
+                }
+            ],
+            "kategori2": [
+                {
+                    "baslik": "Lig",
+                    "detay": "Ligue 1"
+                }
+            ],
+            "kategori3": [
+                {
+                    "baslik": "QUANTGOAL",
+                    "detay": "Yapay zeka analizi: MS 2"
+                }
+            ]
+        }
+    }
+]
